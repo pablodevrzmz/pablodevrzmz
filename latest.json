@@ -1,0 +1,14 @@
+{
+  "pypi": [
+    "strands-acp-client"
+  ],
+  "merged_prs": {
+    "author": "pablodevrzmz",
+    "exclude_owners": [
+      "pablodevrzmz",
+      "metis-org-app",
+      "UCR-PI-IS"
+    ]
+  },
+  "limit": 6
+}
